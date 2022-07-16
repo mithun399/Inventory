@@ -1,0 +1,7 @@
+{
+    "Vendor": true,
+    "Category": true,
+    "Product": true,
+    "Purchase": true,
+    "Inventory": true
+}
